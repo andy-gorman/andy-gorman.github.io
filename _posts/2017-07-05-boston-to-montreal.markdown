@@ -17,9 +17,6 @@ Below are some pics!
 	<div class="col-6 col-m-6">
 		{% include image.html file="boston_to_montreal/selfie_keene.jpg" alt="selfie" caption="Selfie I took in Keene, NH" %}
 	</div>
-	<div class = "col-6 col-m-6">
-		{% include image.html file="boston_to_montreal/people_bathroom.jpg" alt="bathroom" caption="Coffee shop in Keene knows what's up." %}
-	</div>
 </div>
 <div class="row">
 	<div class="col-6 col-m-6">
